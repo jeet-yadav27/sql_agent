@@ -1,0 +1,9 @@
+pydantic
+python-dotenv
+openai
+openai-agents
+gradio
+requests
+pandas
+openpyxl
+tabulate

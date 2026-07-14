@@ -1,0 +1,36 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environment files (sensitive credentials)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env copy
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Temporary Excel test files
+test_sales.xlsx
+sample_data.xlsx
+
+# System files
+Thumbs.db
+.DS_Store
+
+# IDE directories
+.vscode/
+.idea/
